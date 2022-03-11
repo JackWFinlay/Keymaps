@@ -1,0 +1,11 @@
+# firmware binaries
+*.bin
+
+# firmware sourcefile zips
+*.zip
+
+# keymap pdfs
+QMK Configurator.pdf
+
+# MacOS junk
+.DS_Store
